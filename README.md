@@ -73,6 +73,8 @@ Nama	NIM	Kelas
 3.  Nama  : Odilia Valensia Pradevi Putri
     NIM   : 255410045
     Kelas : IF1
+
+    
 🚀 Cara Menjalankan
 Download atau clone repository ini
 Buka file index.html
@@ -80,7 +82,4 @@ Jalankan di browser
 💡 Catatan
 
 Proyek ini dibuat sebagai latihan dasar dalam memahami HTML dan CSS sebelum masuk ke tahap pengembangan web yang lebih kompleks.
-
-📌 Penutup
-
 Dengan proyek ini, diharapkan mahasiswa mampu memahami dasar pembuatan tampilan web serta penggabungan berbagai jenis CSS dalam satu halaman.
