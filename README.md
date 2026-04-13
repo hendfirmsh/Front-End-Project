@@ -1,40 +1,29 @@
-# Front-End Project
-Tugas Front-End
-
-📌 Profil Kelompok Lima - Web HTML & CSS
- Deskripsi Proyek
+📌 Profil Kelompok - Web HTML & CSS
+📖 Deskripsi Proyek
 
 Proyek ini merupakan tugas pembuatan halaman web sederhana bertema Profil Kelompok menggunakan HTML dan CSS.
 Halaman ini menampilkan informasi anggota kelompok dalam bentuk tabel yang telah dipercantik dengan berbagai teknik styling CSS.
 
-== Tujuan ==
+🎯 Tujuan
 Memahami struktur dasar HTML
 Menggunakan tabel dalam HTML
 Mengimplementasikan Inline CSS, Internal CSS, dan External CSS
 Menerapkan styling seperti warna, font, dan background
- Fitur Utama
+🧩 Fitur Utama
 
- Menampilkan profil kelompok dalam bentuk tabel
- Berisi:
+✅ Menampilkan profil kelompok dalam bentuk tabel
+✅ Berisi:
 
-👥 Anggota Kelompok
-Nama Kelompok : Lima
-Anggota Kelompok : 
-1.  Nama  : Zul Ikhwanul Anggara 
-    NIM   : 255410043
-    Kelas : IF1
-2.  Nama  : Hendrik Firmansyah
-    NIM   : 255410075
-    Kelas : IF1
-3.  Nama  : Odilia Valensia Pradevi Putri
-    NIM   : 2554100
+Nama Kelompok
+Nama Anggota
+NIM
+Kata Motivasi
 
- Menggunakan:
+✅ Menggunakan:
 
- Inline CSS (langsung pada elemen)
- Internal CSS (di dalam <style>)
- External CSS (file terpisah)
-
+🎨 Inline CSS (langsung pada elemen)
+🎨 Internal CSS (di dalam <style>)
+🎨 External CSS (file terpisah)
 🛠️ Teknologi yang Digunakan
 HTML5
 CSS3
@@ -43,9 +32,7 @@ profil-kelompok/
 │── index.html
 │── style.css
 │── README.md
-
-
-Implementasi Styling
+🎨 Implementasi Styling
 1. Inline CSS
 
 Digunakan langsung pada elemen HTML, contoh:
@@ -61,7 +48,6 @@ h1 {
     text-align: center;
 }
 </style>
-
 3. External CSS
 
 Digunakan untuk styling paragraf:
@@ -71,20 +57,30 @@ p {
     color: gray;
     font-size: 14px;
 }
-
-Tampilan yang Diharapkan :
+✨ Tampilan yang Diharapkan
 Tabel rapi dan berwarna
 Font menarik dan mudah dibaca
 Background tidak monoton
 Heading menonjol
-
-Cara Menjalankan
+👥 Anggota Kelompok
+Nama	NIM	Kelas
+1.  Nama  : Zul Ikhwanul Anggara 
+    NIM   : 255410043
+    Kelas : IF1
+2.  Nama  : Hendrik Firmansyah
+    NIM   : 255410075
+    Kelas : IF1
+3.  Nama  : Odilia Valensia Pradevi Putri
+    NIM   : 255410045
+    Kelas : IF1
+🚀 Cara Menjalankan
 Download atau clone repository ini
 Buka file index.html
 Jalankan di browser
+💡 Catatan
 
-Catatan
 Proyek ini dibuat sebagai latihan dasar dalam memahami HTML dan CSS sebelum masuk ke tahap pengembangan web yang lebih kompleks.
 
-Penutup
+📌 Penutup
+
 Dengan proyek ini, diharapkan mahasiswa mampu memahami dasar pembuatan tampilan web serta penggabungan berbagai jenis CSS dalam satu halaman.
